@@ -1,0 +1,5 @@
+Hi I am Mitali Sharma 
+I am a Research scholar in University of Delhi.
+My Research focuses on Analysis of Polarization Studies of WW bosons with the Run3 Data. 
+I am L3 Convenor for the MC Request Management, a subgroup of the PDMV(PPD-CMs).
+I was working on Run3 cosmic studies under Tracker Alignment group using the Cosmic Rate Tool.  
